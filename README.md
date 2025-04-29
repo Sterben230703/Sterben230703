@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anand Jaiswal
-- 👀 I’m interested in Competitive Programming.
-- 🌱 I’m currently learning Machine Learning & AI
+- 👀 I’m interested in Competitive Programming & Low Level Programming.
 - 📫 How to reach me abstractanand@outlook.com  
 - ⚡ Fun fact: I am not funny.
 
