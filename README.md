@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anand Jaiswal
-- 👀 I’m interested in AI, Competitive Programming & Low Level Programming.
+- 👀 I’m interested in AI & Data Science,Competitive Programming & Low Level Programming.
 - 📫 How to reach me anand230703@gmail.com/abstractanand@outlook.com  
 
 <!---
